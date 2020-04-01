@@ -34,6 +34,8 @@
         margin: 0 5% 80px 0;
     }
     
+}
+    
     
 @media screen and (min-width: 660px) {
     
@@ -67,4 +69,5 @@
         border-bottom: 5px solid #599a68;
         margin-bottom: 60px;
     }
+    
 }
